@@ -1,0 +1,30 @@
+path: /content/drive/MyDrive/SmartVision AI/dataset/coco/yolo_dataset
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: 'airplane'
+  1: 'bed'
+  2: 'bench'
+  3: 'bicycle'
+  4: 'bird'
+  5: 'bottle'
+  6: 'bowl'
+  7: 'bus'
+  8: 'cake'
+  9: 'car'
+  10: 'cat'
+  11: 'chair'
+  12: 'couch'
+  13: 'cow'
+  14: 'cup'
+  15: 'dog'
+  16: 'elephant'
+  17: 'horse'
+  18: 'motorcycle'
+  19: 'person'
+  20: 'pizza'
+  21: 'potted plant'
+  22: 'stop sign'
+  23: 'traffic light'
+  24: 'truck'
